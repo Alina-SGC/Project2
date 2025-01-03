@@ -1,1 +1,7 @@
+Сторонний модуль:
 
+pyTelegramBotAPI ==	4.25.0
+
+Мои модули:
+
+decorators.py, user.py, exceptions.py
